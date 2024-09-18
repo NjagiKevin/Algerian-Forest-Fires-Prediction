@@ -48,4 +48,3 @@ def predict_fire(input_data: UserInput):
             detail=f"An error occurred: {e}",
         )
 
-# Removed routes for form and form submission (as there are no templates)
